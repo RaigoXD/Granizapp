@@ -1,0 +1,8 @@
+PySide6-Essentials>=6.8
+SQLAlchemy>=2.0
+psycopg[binary]>=3.2
+openpyxl>=3.1
+
+# desarrollo / empaquetado
+pytest>=8
+pyinstaller>=6.10
